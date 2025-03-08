@@ -5650,7 +5650,9 @@
     "description": "Sitecore provides web content management, and multichannel marketing automation software.",
     "dom": [
       "link[href*='/_sitecore/']",
+      "link[href^='/-/media/']",
       "img[src^='/-/media/']",
+      "script[src^='/-/media/']",
       "img[src*='/~/media/.+\\.ashx']"
     ],
     "icon": "Sitecore.svg",
@@ -9035,7 +9037,7 @@
     "cpe": "cpe:2.3:a:squiz:matrix:*:*:*:*:*:*:*:*",
     "description": "A flexible, low-code enterprise content management system designed to manage multiple sites with many editors.",
     "dom": [
-      "link[href*='/__data/assets/css_file/']"
+      "link[href*='/__data/assets/(css_file|git_bridge)/']"
     ],
     "headers": {
       "X-Powered-By": "Squiz Matrix"

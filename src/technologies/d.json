@@ -1746,6 +1746,20 @@
     ],
     "website": "https://distributorplugin.com"
   },
+  "District Engage": {
+    "cats": [
+      1
+    ],
+    "cookies": {
+      "district_session": ""
+    },
+    "description": "District Engage empowers both governmental and private organisations to effortlessly collect valuable feedback, construct insightful reports and enhance community engagement.",
+    "meta": {
+      "generator": "District Engage"
+    },
+    "oss": false,
+    "website": "https://www.district.au/district-engage"
+  },
   "District M": {
     "cats": [
       36
