@@ -802,6 +802,20 @@
     "saas": true,
     "website": "https://acoustic.com/tealeaf"
   },
+  "Acora CMS": {
+    "cats": [
+      1
+    ],
+    "description": "Advanced and affordable digital experience CMS. End to end digital user experiences that work.",
+    "meta": {
+      "generator": "cm3 Acora CMS"
+    },
+    "pricing": [
+      "poa"
+    ],
+    "saas": true,
+    "website": "https://acoracms.com/"
+  },
   "Acquia Campaign Factory": {
     "cats": [
       32
