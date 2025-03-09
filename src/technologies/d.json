@@ -2922,6 +2922,9 @@
     ],
     "cpe": "cpe:2.3:a:drupal:drupal:*:*:*:*:*:*:*:*",
     "description": "Drupal is a free and open-source web content management framework.",
+    "dom": [
+      "img[src^='/sites/default/files/']"
+    ],
     "headers": {
       "Expires": "19 Nov 1978",
       "X-Drupal-Cache": "",
