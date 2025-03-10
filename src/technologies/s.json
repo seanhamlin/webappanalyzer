@@ -4763,7 +4763,7 @@
       "PHP"
     ],
     "meta": {
-      "generator": "^SilverStripe"
+      "generator": "^Silver[Ss]tripe"
     },
     "oss": true,
     "website": "https://www.silverstripe.org/"
